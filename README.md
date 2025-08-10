@@ -2,10 +2,10 @@ A simple, interactive quiz application made with HTML,CSS and JavaScript to test
 
 Features:
 
-1.Multiple-choice questions with instant feedback.
-2.Highlights correct and incorrect answers after selection.
-3.Score tracking with results at the end.
-4.Option to restart the quiz.
+-Multiple-choice questions with instant feedback.
+-Highlights correct and incorrect answers after selection.
+-Score tracking with results at the end.
+-Option to restart the quiz.
 
 Technologies Used:
 
